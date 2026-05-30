@@ -56,10 +56,10 @@ https://github.com/Raheem017/MERN-Chat-App
 ---
 
 ### 💰 SpendPilot
-Expense tracking application for managing expenses and financial records.
+AI subscription management platform that helps organizations analyze AI tool usage, optimize subscription costs, and identify the most suitable plans based on team utilization patterns.
 
 🔗 Repository:
-(Add Link)
+https://github.com/Raheem017/mini-projects/tree/main/mern-projects/SpendPilot
 
 ---
 
@@ -67,8 +67,7 @@ Expense tracking application for managing expenses and financial records.
 MERN-based exercise tracking application with CRUD functionality.
 
 🔗 Repository:
-(Add Link)
-
+https://github.com/Raheem017/mini-projects/tree/main/mern-projects/mern-exercise-tracker
 ## 📫 Connect With Me
 
 - LinkedIn: linkedin.com/in/raheem-a-2824b32b9/
